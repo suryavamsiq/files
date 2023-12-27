@@ -1,0 +1,12 @@
+MACHINE LEARNING PART
+
+FINAL PROJECT:
+https://finalproject-jqqv9ysqh5zghyzba9cbn6.streamlit.app/
+
+CROP RECOMMENDATION:
+https://cropmodel-jyvzcmmbmt9scstk68hpvf.streamlit.app/
+https://colab.research.google.com/drive/1IVgLs_O6bdbHr6a2jBRmJbTz2oiM7snR?usp=sharing
+
+NUTRIENT PREDICTION:
+https://nutrients-kw4ldjocjjefooh95hyyyr.streamlit.app/
+https://colab.research.google.com/drive/1bAcDKgwIRFSj-UmOmdANXRy1nChoCbU8?usp=sharing
